@@ -1,0 +1,22 @@
+
+body{
+    background-color:rgb(80, 76, 76);
+    color: white;
+}
+.heading{
+    text-align: center;
+    color: rgb(241, 145, 241);
+}
+button{
+    background-color: rgb(88, 130, 237);
+    color: white;
+}
+input{
+    border:2px solid rgb(104, 163, 245)
+}
+textarea{
+    border:2px solid rgb(104, 163, 245)
+}
+fieldset{
+    width:20%
+}
